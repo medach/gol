@@ -9,3 +9,5 @@ Test Build Trigger
 Test Build Trigger
 
 Test Build Trigger Medach
+
+GitHub hook trigger for GITScm polling
